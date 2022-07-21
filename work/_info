@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_2020.4/examples
+T_opt
+!s110 1643383083
+Vhc;FfGzb[[8<UY^<1@0I;0
+04 11 4 work unit_conter fast 0
+=1-3c58c2be9961-61f4092a-34e-397c
+o-quiet -auto_acc_if_foreign -work work
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vfsm
+Z1 !s110 1643383052
+!i10b 1
+!s100 QS5zOJJKi1o]kz0BP5m0D0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZ;egOiBKRg17OMT5A`2Z>2
+Z3 dE:/university/logic gates/projects/final project
+Z4 w1643313777
+Z5 8E:/university/logic gates/projects/final project/morsedecoder.v
+Z6 FE:/university/logic gates/projects/final project/morsedecoder.v
+!i122 3
+L0 139 230
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1643383052.000000
+Z10 !s107 E:/university/logic gates/projects/final project/morsedecoder.v|
+Z11 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/university/logic gates/projects/final project/morsedecoder.v|
+!i113 0
+Z12 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+vmorse_decoder
+R1
+!i10b 1
+!s100 cKBJG;B?EOTRMNMXk>_cJ0
+R2
+IM@SX<Q;_<LS8G;WIT21YG2
+R3
+R4
+R5
+R6
+!i122 3
+L0 6 113
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vmux8bit9tol
+R1
+!i10b 1
+!s100 DWmONM4k[j0]F<^HHf?3Y1
+R2
+IM[;3m=36IR2Kb12G=H]HK1
+R3
+R4
+R5
+R6
+!i122 3
+L0 415 91
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
+vunit_conter
+R1
+!i10b 1
+!s100 cc;2cIQPOJLS_??cCihYi1
+R2
+I[abOOcI@b3PbC2WUHeTSW0
+R3
+R4
+R5
+R6
+!i122 3
+L0 370 22
+R7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R0
